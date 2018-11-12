@@ -1,0 +1,2 @@
+# google-drive-sync-project
+This project was made using python language. It does not have any UI. It uses command line to take inputs and show output. User needs to generate his/her private and public key of his/her google drive account. After putting keys in the code it will ask for one time verification.after verification you will be able to upload and download files from desktop to drive without any brawser interaction.   
